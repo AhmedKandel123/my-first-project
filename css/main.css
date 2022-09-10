@@ -169,7 +169,7 @@ body {
 
 .landing {
   height: calc(100vh - 74px);
-  background-image: url(images/landing.jpg);
+  background-image: url(../images/landing.jpg);
   background-size: cover;
   position: relative;
 }
